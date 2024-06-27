@@ -1,6 +1,6 @@
-# faas_platform
+# faas_stack
 
-Configuration files for AERO's FaaS state-of-practice platform (i.e., Kata
+Configuration files for AERO's FaaS state-of-practice software stack (i.e., Kata
 Containers w/ Firecracker).
 
 ## License
